@@ -25,6 +25,9 @@ import OurCultureImage from "@/assets/images/career/our-culture.png";
 import { default as BannerOneImage, default as BannerThreeImage } from "@/assets/images/home/banner-1.png";
 import BannerTwoImage from "@/assets/images/home/banner-2.png";
 
+import MarketPresenceMapImage from "@/assets/images/market-presence/market-presence-map.png";
+import MarketPresenceHeroImage from "@/assets/images/market-presence/market-presence.png";
+
 
 export {
     AboutHeroSectionBgImage, BannerOneImage,
@@ -39,7 +42,7 @@ export {
     HomeAboutSectionImage,
     InstagramIcon,
     Logo,
-    LogoDark, OurCultureImage, ServiceIcon,
+    LogoDark, MarketPresenceHeroImage, MarketPresenceMapImage, OurCultureImage, ServiceIcon,
     ServiceImage,
     XIcon,
     YoutubeIcon

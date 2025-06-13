@@ -5,6 +5,7 @@ import ContactPage from "@/components/pages/contact-us";
 import HomePage from "@/components/pages/home";
 import CareerPage from "./career";
 import CareerDetailPage from "./career/details";
+import MarketPresencePage from "./market-presence";
 import NewsPage from "./news";
 import NewsDetaisPage from "./news/details";
 import PrivacyAndPolicyPage from "./privacy-and-policy";
@@ -18,6 +19,7 @@ export {
     CareerPage,
     ContactPage,
     HomePage,
+    MarketPresencePage,
     NewsDetaisPage,
     NewsPage,
     PrivacyAndPolicyPage,
