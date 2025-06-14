@@ -9,6 +9,7 @@ import MarketPresencePage from "./market-presence";
 import NewsPage from "./news";
 import NewsDetaisPage from "./news/details";
 import PrivacyAndPolicyPage from "./privacy-and-policy";
+import SustainabilityPage from "./sustainability";
 import TermsAndConditionPage from "./terms-and-conditions";
 
 export {
@@ -22,7 +23,6 @@ export {
     MarketPresencePage,
     NewsDetaisPage,
     NewsPage,
-    PrivacyAndPolicyPage,
-    TermsAndConditionPage
+    PrivacyAndPolicyPage, SustainabilityPage, TermsAndConditionPage
 };
 

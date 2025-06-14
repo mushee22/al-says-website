@@ -28,11 +28,18 @@ import BannerTwoImage from "@/assets/images/home/banner-2.png";
 import MarketPresenceMapImage from "@/assets/images/market-presence/market-presence-map.png";
 import MarketPresenceHeroImage from "@/assets/images/market-presence/market-presence.png";
 
+import SustainabilityAboutSectionImage from "@/assets/images/sustainability/about-sustainabilty.png";
+import SustainabilityHeroImage from "@/assets/images/sustainability/sustainability-hero-bg.png";
+
 
 export {
-    AboutHeroSectionBgImage, BannerOneImage,
+    AboutHeroSectionBgImage,
+    BannerOneImage,
     BannerThreeImage,
-    BannerTwoImage, BlogImage, CareerImage, ClientLogoOneImage,
+    BannerTwoImage,
+    BlogImage,
+    CareerImage,
+    ClientLogoOneImage,
     ClientLogoThreeImage,
     ClientLogoTwoImage,
     ContactCardBg,
@@ -42,8 +49,14 @@ export {
     HomeAboutSectionImage,
     InstagramIcon,
     Logo,
-    LogoDark, MarketPresenceHeroImage, MarketPresenceMapImage, OurCultureImage, ServiceIcon,
+    LogoDark,
+    MarketPresenceHeroImage,
+    MarketPresenceMapImage,
+    OurCultureImage,
+    ServiceIcon,
     ServiceImage,
+    SustainabilityAboutSectionImage,
+    SustainabilityHeroImage,
     XIcon,
     YoutubeIcon
 };
